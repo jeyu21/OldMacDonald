@@ -5,7 +5,7 @@ class Pig implements Animal {
          myType = type;         
          mySound = sound;     
      }     
-     public Cow()     {         
+     public Pig()     {         
          myType = "unknown";         
          mySound = "unknown";     
      }      
